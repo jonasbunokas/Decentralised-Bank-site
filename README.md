@@ -17,4 +17,5 @@ npm start
 ```
 
 
+This app was made on the ICP(Internet computer protocol) using motoko.
 
